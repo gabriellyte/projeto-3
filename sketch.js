@@ -1,4 +1,4 @@
-# PROJETO DE TRES BOLAS QUE ATRAVESSAM A TELA E PISCAM✨😋
+
 let cor;
 let circuloY;
 let circuloX;
